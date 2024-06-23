@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <title>Nagalakshmiarepalli</title>
+    </head>
+    <body>
+        <header>
+            <h2>Nagalakshmiarepalli</h2>
+        </header>
+        <img src="C:\Users\Kishore\Desktop\NAGA\WhatsApp Image 2024-06-19 at 09.38.01_94bf52ee.jpg"
+        style="padding:5px;margin:5px;width:200px;height:250px;">
+        <head>
+            <title>CAREER OBJECTIVE</title>
+        </head>
+        <body>
+            <header>
+                <h4>CAREER OBJECT</h4>
+            </header>
+            <p>To be associated with a progressive organization that allows me to utilise my abilities and qualifications and offers me career advancement and professional growth.</p>
+            <head>
+                <title>ACADEMICS</title>
+            </head>
+            <body>
+            <header>
+                <h4>ACADEMICS</h4>
+            </header>
+            </body>
+            <ul type="square">
+            <p>
+            <li>B.Tech In Information Technology</li>
+            </p>
+            <p>Sri Vasavi Engineering College and Pharmacy| 3rd year</p>
+            <p>5/2024                      7.64 CGPA</p>
+            <p>
+                <li>Intermediate</li>
+            </p>
+            <p>Sri Srinivasa Jr College</p>
+            <p>06/2019 - 05/2021               89.20    </p>
+            <p>
+               <li> SSC</li>
+            </p>
+            <P>Zph School pamidimukala</P>
+            <p>06/2018 - 04/2019                  9.30</p>
+            <head>
+                <title>PROJECTS</title>
+            </head>
+            <body>
+            <header>
+                <h4>PROJECTS</h4>
+            </header>
+            </body>
+            <p>Develop a Biometric Attendance System using C programming language</p>
+            <body>
+                <header>
+                    <h4>ACHIEVEMENTS</h4>
+                </header>
+            </body>
+            <li>Won a prize in our college Project-expo 22 which is conducted on occasion Engineers day of Sectember</li>
+            <li>Embedded system completion certificete</li>
+            <li>Andriod development course completion certificate</li>
+            <head>
+                <title>TECH STACK</title>
+            </head>
+            <body>
+                <header>
+                    <h4>TECH STACK</h4>
+                </header>
+            </body>
+            <ul type="square">
+            <li>C</li> 
+            <li>Python</li>
+            <li>Ardunio</li>
+            </body> 
+        <header>
+            <h4>HOBBIES</h4>
+        </header>
+        </body>
+        <li>playing shuttle</li>
+        <li>listening to music</li>
+        <li>craft working</li>
+        <header>
+            <h4>GOOGLE MAP</h4>
+        </header>
+        <hr/>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d244820.27055162858!2d80.48006502315688!3d16.51010020793196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35eff9482d944b%3A0x939b7e84ab4a0265!2sVijayawada%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1718866480288!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+       </hr>
+       <header>
+        <h4>SOCIAL LINK</h4>
+       </header>
+       <body>
+       <a href="https://www.linkedin.com/in/kotaiah-swamy-arepalli-48712a202">Click Here</a>
+       </body>
+      
+    </body>
+</html>
